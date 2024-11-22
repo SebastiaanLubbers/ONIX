@@ -1,0 +1,1 @@
+![ONIXSalesOutlet](.attachments/SalesOutlet.png)
