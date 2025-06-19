@@ -1,1 +1,0 @@
-![ONIXCopyrightOwner](.attachments/CopyrightOwner.png)

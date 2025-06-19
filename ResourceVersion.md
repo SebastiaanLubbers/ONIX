@@ -1,1 +1,0 @@
-![ONIXResourceVersion](.attachments/ResourceVersion.png)

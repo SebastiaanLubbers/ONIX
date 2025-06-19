@@ -1,1 +1,0 @@
-![ONIXTextContent](.attachments/TextContent.png)

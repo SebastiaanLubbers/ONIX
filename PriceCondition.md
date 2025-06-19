@@ -1,1 +1,0 @@
-![ONIXPriceCondition](.attachments/PriceCondition.png)

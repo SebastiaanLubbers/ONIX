@@ -1,1 +1,0 @@
-![ONIXMapScale](.attachments/MapScale.png)

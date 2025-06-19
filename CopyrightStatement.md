@@ -1,1 +1,0 @@
-![ONIXCopyrightStatement](.attachments/CopyrightStatement.png)

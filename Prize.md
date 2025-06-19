@@ -1,1 +1,0 @@
-![ONIXPrize](.attachments/Prize.png)

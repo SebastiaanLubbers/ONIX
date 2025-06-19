@@ -1,1 +1,0 @@
-![ONIXProfessionalAffiliation](.attachments/ProfessionalAffiliation.png)

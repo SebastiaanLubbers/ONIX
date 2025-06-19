@@ -1,1 +1,0 @@
-![ONIXSalesRestriction](.attachments/SalesRestriction.png)

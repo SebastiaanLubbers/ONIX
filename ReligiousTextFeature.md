@@ -1,1 +1,0 @@
-![ONIXReligiousTextFeature](.attachments/ReligiousTextFeature.png)

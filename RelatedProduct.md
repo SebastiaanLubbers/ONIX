@@ -1,1 +1,0 @@
-![ONIXRelatedProduct](.attachments/RelatedProduct.png)

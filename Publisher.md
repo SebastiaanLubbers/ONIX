@@ -1,1 +1,0 @@
-![ONIXPublisher](.attachments/Publisher.png)

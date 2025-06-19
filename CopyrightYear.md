@@ -1,1 +1,0 @@
-![ONIXCopyrightYear](.attachments/CopyrightYear.png)

@@ -1,1 +1,0 @@
-![ONIXTitleDetail](.attachments/TitleDetail.png)

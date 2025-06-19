@@ -1,1 +1,0 @@
-![ONIXSupplyDetail](.attachments/SupplyDetail.png)

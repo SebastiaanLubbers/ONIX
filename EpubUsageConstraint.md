@@ -1,1 +1,0 @@
-![ONIXEpubUsageConstraint](.attachments/EpubUsageConstraint.png)

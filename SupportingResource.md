@@ -1,1 +1,0 @@
-![ONIXSupportingResource](.attachments/SupportingResource.png)

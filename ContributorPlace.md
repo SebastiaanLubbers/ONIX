@@ -1,1 +1,0 @@
-![ONIXContributorPlace](.attachments/ContributorPlace.png)

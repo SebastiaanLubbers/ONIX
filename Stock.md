@@ -1,1 +1,0 @@
-![ONIXStock](.attachments/Stock.png)

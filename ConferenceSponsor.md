@@ -1,1 +1,0 @@
-![ONIXConferenceSponsor](.attachments/ConferenceSponsor.png)

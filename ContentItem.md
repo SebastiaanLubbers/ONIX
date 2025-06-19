@@ -1,1 +1,0 @@
-![ONIXContentItem](.attachments/ContentItem.png)

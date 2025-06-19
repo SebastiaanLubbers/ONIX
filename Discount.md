@@ -1,1 +1,0 @@
-![ONIXDiscount](.attachments/Discount.png)
